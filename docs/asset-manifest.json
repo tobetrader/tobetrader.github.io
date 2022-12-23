@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.78793d4c.chunk.css",
-    "main.js": "/static/js/main.8e38dc4c.chunk.js",
+    "main.js": "/static/js/main.5a991467.chunk.js",
     "runtime-main.js": "/static/js/runtime-main.8c44f596.js",
     "static/css/2.92039287.chunk.css": "/static/css/2.92039287.chunk.css",
     "static/js/2.9d514368.chunk.js": "/static/js/2.9d514368.chunk.js",
     "static/css/3.7f681326.chunk.css": "/static/css/3.7f681326.chunk.css",
     "static/js/3.c57e9e9b.chunk.js": "/static/js/3.c57e9e9b.chunk.js",
     "index.html": "/index.html",
-    "precache-manifest.dd060f495b5c2a7d8a4aeaddeaacdc42.js": "/precache-manifest.dd060f495b5c2a7d8a4aeaddeaacdc42.js",
+    "precache-manifest.66c7b37b95b055ef1c4e99f9c70c8eb9.js": "/precache-manifest.66c7b37b95b055ef1c4e99f9c70c8eb9.js",
     "service-worker.js": "/service-worker.js",
     "static/js/2.9d514368.chunk.js.LICENSE": "/static/js/2.9d514368.chunk.js.LICENSE",
-    "static/js/main.8e38dc4c.chunk.js.LICENSE": "/static/js/main.8e38dc4c.chunk.js.LICENSE",
+    "static/js/main.5a991467.chunk.js.LICENSE": "/static/js/main.5a991467.chunk.js.LICENSE",
     "static/media/index.less": "/static/media/Roboto-Regular.5673da52.ttf",
     "static/media/slick-theme.css": "/static/media/slick.f97e3bbf.svg"
   },
@@ -20,6 +20,6 @@
     "static/css/2.92039287.chunk.css",
     "static/js/2.9d514368.chunk.js",
     "static/css/main.78793d4c.chunk.css",
-    "static/js/main.8e38dc4c.chunk.js"
+    "static/js/main.5a991467.chunk.js"
   ]
 }
