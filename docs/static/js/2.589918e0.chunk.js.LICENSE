@@ -8,6 +8,8 @@
  * Released under the MIT license.
  */
 
+/*! showdown v 2.1.0 - 21-04-2022 */
+
 /*!
 	Copyright (c) 2018 Jed Watson.
 	Licensed under the MIT License (MIT), see
@@ -19,8 +21,6 @@ object-assign
 (c) Sindre Sorhus
 @license MIT
 */
-
-/*! showdown v 2.1.0 - 21-04-2022 */
 
 /**
  * [js-sha3]{@link https://github.com/emn178/js-sha3}
