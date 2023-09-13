@@ -46,7 +46,7 @@ export default defineConfig({
           { text: '大事纪实', link: 'news/index' },
           { text: '风云人物', link: 'bigcard/index' },
           { text: '行业导航', link: 'links/index' },
-          { text: '模拟交易', link: 'https://tobetrader.com/zh-CN/sim/exchange' }
+          { text: '模拟交易', link: 'http://47.103.71.106:9527/zh-CN/sim/exchange' }
         ],
         sidebarMenuLabel: '菜单',
         outlineTitle: '本页目录'
