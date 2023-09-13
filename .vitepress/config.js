@@ -40,7 +40,7 @@ export default defineConfig({
       link: '/',
       themeConfig: {
         nav: [
-          { text: '交易日报', link: 'daily/index' },
+          { text: '交易简讯', link: 'daily/index' },
           { text: '基础知识', link: 'knowledge/index' },
           { text: '交易心得', link: 'viewpoint/index' },
           { text: '大事纪实', link: 'news/index' },
