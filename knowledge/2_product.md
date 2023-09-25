@@ -1,6 +1,6 @@
 ---
-title: 解析交易品种
-desc: 交易品种是
+title: 可以参与的交易品种
+desc: 简要介绍各类交易品种（证券类/基金类/加密货币类/期货/期权等），以及其特点和用途
 author: tobetraders
 createTime: 2023-09-21
 ---
