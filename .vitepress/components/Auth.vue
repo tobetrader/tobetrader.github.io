@@ -1,5 +1,6 @@
 <script setup>
 import { onMounted, ref } from 'vue'
+import getToken from './getToken'
 
 const user = ref(null)
 
@@ -15,7 +16,7 @@ onMounted(() => {
           headers: {
             Accept: 'text/plain;',
             // 'Access-Control-Allow-Origin': '*',
-            Otoken: localStorage.getItem('app_token'),
+            Otoken: getToken(),
           },
           // withCredentials: true
         }
