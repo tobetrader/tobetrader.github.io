@@ -4,7 +4,7 @@ const fs = require('fs')
 const path = require('path')
 const chalk = require('chalk')
 
-const { articleDirectory, buildDirectory, articleDataFile } = require('./paths')
+const { articleDirectory, buildDirectory, articleDataFile } = require('./paths.cjs')
 
 const includeDirs = ['bigcard', 'daily', 'industrynav', 'knowledge', 'news', 'viewpoint']
 

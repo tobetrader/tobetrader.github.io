@@ -113,6 +113,17 @@
   display: none;
 }
 
+.VPContent.is-home {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.VPContent .VPHome {
+  width: 100%;
+}
+
 .home-section {
   border-top: 1px solid var(--vp-c-gutter);
   padding: 60px 24px;

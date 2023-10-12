@@ -2,15 +2,18 @@
   "name": "tobetrader",
   "version": "0.1.0",
   "private": true,
+  "type": "module",
   "scripts": {
-    "generateData": "node scripts/build.js",
+    "generateData": "node scripts/build.cjs",
     "start": "vitepress dev ./",
     "build": "npm run generateData && vitepress build ./"
   },
   "dependencies": {
     "chalk": "^4.1.2",
     "fs-extra": "^11.1.1",
-    "vitepress": "^1.0.0-beta.1"
+    "overlayscrollbars": "^2.3.2",
+    "overlayscrollbars-vue": "^0.5.5",
+    "vitepress": "^1.0.0-rc.21"
   },
   "devDependencies": {
     "less": "^4.2.0"

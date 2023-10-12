@@ -6,6 +6,7 @@ export default defineConfig({
     server: {
       proxy: {
         '/query/v1.0/CheckToken': 'http://47.103.71.106:9527',
+        '/bot/get_message': 'http://127.0.0.1:7878',
       }
     }
   },

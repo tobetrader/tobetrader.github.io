@@ -4,9 +4,10 @@ import getToken from './getToken'
 
 const user = ref(null)
 
-const redirect = ref(window.location.href)
+const redirect = ref('')
 
 onMounted(() => {
+  redirect.value = window.location.href
   const request = async () => {
     try {
       const baseUrl = !import.meta.env.PROD ? '/' : 'https://47.103.71.106/'
@@ -47,7 +48,7 @@ onMounted(() => {
   </div>
 </template>
 
-<style scoped>
+<style scoped lang="less">
 .auth {
   display: flex;
   flex-direction: row;
@@ -58,24 +59,21 @@ onMounted(() => {
   font-size: 14px;
   color: var(--vp-c-text-1);
   fill: var(--vp-c-text-1);
+  a {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    height: 30px;
+    margin-left: 10px;
+    padding: 0 14px;
+    border-radius: 4px;
+    text-decoration: none;
+    cursor: pointer;
+    &.login {
+      background-color: #1677ff;
+      color: #fff;
+    }
+  }
 }
-
-.auth a {
-  display: flex;
-  flex-direction: row;
-  align-items: center;
-  justify-content: center;
-  height: 30px;
-  margin-left: 10px;
-  padding: 0 14px;
-  border-radius: 4px;
-  text-decoration: none;
-  cursor: pointer;
-}
-
-.auth a.login {
-  background-color: #1677ff;
-  color: #fff;
-}
-
 </style>
