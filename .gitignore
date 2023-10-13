@@ -2,3 +2,4 @@
 /.idea
 /dist
 /public/articles.json
+.vitepress/cache
