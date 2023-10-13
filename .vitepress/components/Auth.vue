@@ -94,7 +94,7 @@ onMounted(() => {
   }
   .download {
     position: relative;
-    display: flex;
+    display: none;
     flex-direction: row;
     align-items: center;
     margin-left: 30px;
@@ -131,5 +131,12 @@ onMounted(() => {
       }
     }
   }
+
+  @media (min-width: 640px) {
+    .download {
+      display: flex;
+    }
+  }
+
 }
 </style>
