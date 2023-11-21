@@ -44,12 +44,15 @@ createTime: 2023-03-16
   
 ## 相关视频
  
-[硅谷银行为什么破产？对加密usdc稳定币，银行及创投的影响？-哔哩哔哩]( https://b23.tv/02QHdbI)
+[硅谷银行为什么破产？对加密usdc稳定币，银行及创投的影响？-哔哩哔哩](https://b23.tv/02QHdbI)
 			
 [千亿存款一夜破产，硅谷银行破产后，到底谁亏了？](https://www.360kuai.com/pc/90866f426814d7816?sign=360_c9d79732&tag_kuaizixun=%E8%B4%A2%E7%BB%8F)
 			
-[硅谷银行破产，USDC脱锚，比特币却逆向大涨？-哔哩哔哩](https://b23.tv/G7xr97M))
-
+[硅谷银行破产，USDC脱锚，比特币却逆向大涨？-哔哩哔哩](https://b23.tv/G7xr97M)
+			
+[【让我告诉你硅谷银行暴雷背后的真正原因-哔哩哔哩】](https://b23.tv/T8CFIJx)
+			
+[【速评】美国第二大银行倒闭事件——硅谷银行-哔哩哔哩](https://b23.tv/hcMS5xT)
 ## 相关文章
 
 [“全美最佳银行”硅谷银行破产始末](http://www.xinminweekly.com.cn/huanqiu/2023/03/22/18697.html)
