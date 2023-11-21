@@ -39,7 +39,7 @@ createTime: 2023-03-16
   
 ## 相关视频
  
-[一口气了解硅谷银行倒闭危机]([https://b23.tv/02QHdbI](https://www.bilibili.com/video/BV1Zs4y1H7rj/?spm_id_from=333.337.search-card.all.click)
+[一口气了解硅谷银行倒闭危机](https://www.bilibili.com/video/BV1Zs4y1H7rj/?spm_id_from=333.337.search-card.all.click)
 			
 [让我告诉你硅谷银行暴雷背后的真正原因](https://www.bilibili.com/video/BV1nX4y1f7aE/?buvid=XX018320FE9E637E412B5226DEF883C87F09B)
 			
