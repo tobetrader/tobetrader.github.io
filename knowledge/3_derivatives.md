@@ -5,6 +5,10 @@ author: tobetraders
 createTime: 2023-09-21
 ---
 
+## 现货杠杆
+* 融资
+* 融券
+
 ## 类现货
 * 永续合约  
 * T+D交割合约
