@@ -55,14 +55,9 @@ createTime: 2023-12-24
 			
 ## 相关文章
 
-[光明时评：美股三次熔断的根源与影](https://news.gmw.cn/2020-03/17/content_33657525.html)
-			 	 
-[宗校立：美股破纪录三次熔断，对未来会有怎样影响？](http://forex.hexun.com/2020-03-17/200654539.html)
+[2020年美股熔断的原因分析](https://zhuanlan.zhihu.com/p/304742949)
+			 	 			 
+[美股四次熔断的原因及对我国的影响](https://www.fx361.com/page/2020/1102/7174271.shtml)
 			 
-[一周三次熔断！美股暴跌，只是疫情全球冲击下的冰山一角](https://baijiahao.baidu.com/s?id=1661391177556344347)
+[美国股市熔断：原因与前景](https://xueqiu.com/7322952392/166932906)
 			 
-[暴跌！美股史上三次熔断 我们一周见证了两次！](http://gubaf10.eastmoney.com/news,cjpl,912331377.html)
-			 
-[财知道丨美股两周三次熔断，美联储降息已无力救市？会带来哪些连锁反应？](https://k.sina.com.cn/article_1617264814_606580ae02001lmzo.html)
-  
-[美股多次熔断将对世界、中国和我们每个人有什么影响？](https://www.zhihu.com/question/380649196)
