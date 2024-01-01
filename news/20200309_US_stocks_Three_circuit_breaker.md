@@ -15,7 +15,7 @@ createTime: 2023-12-24
 空方：证劵交易所和股民  
 结果：整个美国市场一片哀嚎，股民损失惨重，对疫情及其经济恶果充满担忧。	
 
-![ni](/assets/images/ni.jpg)
+![20200309_US_stocks_Three_circuit_breaker](/assets/images/20200309_US_stocks_Three_circuit_breaker.png)
 
 ## 背景介绍
 
