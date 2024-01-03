@@ -42,13 +42,9 @@ CIO是摩根大通的一个最赚钱的业务部门，它主要从事债券洐�
 摩根大通的“伦敦鲸”事件已落下帷幕，但摩根大通在此事件中所遭受的损失却永远无法弥补，此时我们彻底看清信用衍生品的巨大破坏力，同时也认识到金融行业加强对信用衍生品的监管和集中清算的重要性。这也为我们投资者敲响了警钟：利润固然重要，但也要考虑风险的大小，在能力范围内实现资产盈利的最优化，切忌用赌徒的心态来投资。
 	
 ## 相关视频
-[摩根大通巨亏20亿美元震动全球](https://finance.eastmoney.com/news/1345,20120512205334865.html )
-			
-[【美国商业简史7】下集：62亿美元巨亏，9.2亿美元罚单，复盘次贷赢家摩根](https://www.bilibili.com/video/BV1JS4y1L7a8/?spm_id_from=333.337.search-card.all.click&vd_source=ce6174b903c8790c5308700ca8d9c973)
-
-[专业解析：摩根大通“伦敦鲸”事件回顾](https://www.bilibili.com/video/BV1KD4y127gt/)
+[【金融风险案例】摩根大通的伦敦鲸⑦](https://www.bilibili.com/video/BV1WZ4y1W78v?vd_source=afeaf1bbefec5c4f552772f6a2290b8b)
 ## 相关链接
-[“伦敦鲸” Bruno Iksil 首度回应：我要挽回名誉！](https://m.jiemian.com/article/1165806.html)
+[摩根大通CIO真面](https://www.docin.com/p-1014149588.html)
 			 
 [摩根大通因“伦敦鲸”事件遭重罚](http://m.ldnews.cn/pcarticle/235306?mobile)
 			 
@@ -56,4 +52,4 @@ CIO是摩根大通的一个最赚钱的业务部门，它主要从事债券洐�
 			 
 [美媒揭秘“伦敦鲸”案幕后 称暴露美监管机制漏洞](https://www.chinanews.com/fortune/2013/08-19/5178713.shtml)
 			 
-[“伦敦鲸”搁浅的市场启示](https://finance.ifeng.com/stock/special/JPMorganjk/20120521/6489702.shtml)
+[摩根大通伦敦鲸事件分析](https://www.weivol.cn/2018/01/london-whale/)
